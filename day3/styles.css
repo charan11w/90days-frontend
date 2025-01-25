@@ -1,0 +1,198 @@
+
+
+.college-logo{
+  width:200px;
+  height:200px;
+}
+
+.header-info{
+ background-color: #FFFFFF;
+ text-align: center;
+ margin-bottom:30px;
+}
+
+.first,.middle,.last{
+  display: inline-block;
+}
+
+.first{
+  width:300px;
+}
+.middle{
+  width:800px;
+  margin-left:30px;
+}
+.college-title{
+  width:800px;
+  margin-bottom: 0px;
+}
+.last{
+  width:300px;
+}
+
+.college-status{
+  width:120px;
+}
+.navigation-system{
+  background-color: #e5e3e4;
+  padding:12px; 
+  font-family: Arial;
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 20px;;
+}
+ .links-nav{
+  text-decoration: none;
+  color: #737373;
+  margin:15px;
+} 
+
+.links-nav:hover{
+  background-color: black;
+}
+
+.nav-links{
+  text-align: center;
+}
+
+.main-body {
+  align-items: center;
+  background-color: #f6f6f6;
+}
+
+.main-body {
+  background-color: #f6f6f6;
+  text-align: left; 
+}
+
+main, aside {
+  display: inline-block;
+  vertical-align: top; 
+}
+
+main {
+  height: 990px;
+  width: 990px;
+  padding: 0px;
+  margin-top:0px;
+  display: inline-block;
+}
+
+aside {
+  width: 250px; 
+  background-color: #C2D7E9;
+  margin-right: 10px; 
+  height: 700px;
+}
+
+.about-cse {
+  width: 100%; 
+  padding: 10px;
+  border: 1px dotted red;
+  display: inline-block;
+  height: 1150px;
+  background-color: rgb(227, 227, 227);
+}
+
+.sidebars-h {
+  width: 100%; 
+}
+
+.links-side { 
+  display: block;
+  text-decoration: none;
+  color: #737373;
+  font-family: Arial;
+  font-size: 23px;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px dotted cadetblue;
+}
+
+.links-side:hover {
+  background-color: black;
+  color: white;
+}
+
+.department-title{
+  float:left;
+  color: rgb(28, 128, 236);
+  font-weight: bold;
+  font-family: arial;
+  padding-left:30px;
+}
+
+.students{
+  width:130px;
+  margin-left: 50px;
+}
+
+.department-content{
+  font-family: arial;
+  padding-left:10px;
+}
+
+.f-cards{
+  display:inline-block;
+  width:200px;
+  height:250px;
+  padding:0px;
+  vertical-align: top;
+  margin-left:15px;
+  text-align: center;
+  font-family: arial;
+}
+.faculty-photo{
+  width:120px;
+  height:120px;
+  border-radius: 90px;
+  padding: 20px;
+}
+.image-div{
+  background-color: rgb(61, 102, 156);
+  border:1px solid rgb(238, 232, 232);
+}
+.faculty-details{
+  background-color: rgb(238, 232, 232);
+  border:1px solid rgb(61, 102, 156);
+}
+.notices-info{
+  display:inline-block;
+  border:2px solid blue;
+  background-color: yellow;
+  padding:10px;
+  border-radius: 10px;
+  margin-left:15px;
+}
+
+.notice-container{
+  font-family:arial;
+  text-align: center;
+  background-color: orange;
+  border:4px solid red;
+  padding:20px;
+  margin-top:20px;
+}
+
+.inner-footer{
+  background-color: rgb(37, 34, 34);
+  font-family: arial;
+  font-style: bold;
+  margin-top:190px;
+  height:200px;
+  text-align: center;
+  color: white;
+}
+
+.contact-info{
+  width:300px;
+  height:140px;
+}
+
+
+
+
+
+
+
+
